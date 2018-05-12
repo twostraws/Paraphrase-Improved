@@ -1,0 +1,6 @@
+framework module Pods_ParaphraseTests {
+  umbrella header "Pods-ParaphraseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
